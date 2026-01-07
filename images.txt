@@ -7,3 +7,4 @@ xhofe/alist:latest
 clickhouse
 mcp/clickhouse
 clickhouse/clickhouse-server
+dustynv/vllm:r36.4-cu128-24.04
