@@ -8,3 +8,4 @@ clickhouse
 mcp/clickhouse
 clickhouse/clickhouse-server
 dustynv/vllm:r36.4-cu128-24.04
+dustynv/tensorrt_llm:0.12-r36.4.0
